@@ -1,1 +1,0 @@
-(self.webpackChunk_brownfi_interface=self.webpackChunk_brownfi_interface||[]).push([[131],{60782:()=>{},6948:()=>{}}]);
